@@ -1,0 +1,13 @@
+.thumbnail-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 4px;
+  margin: 4px;
+  list-style-type: none;
+  opacity: 0.5;
+}
+.thumbnail-btn {
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
